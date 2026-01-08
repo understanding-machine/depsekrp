@@ -1,2 +1,2 @@
-### Thingking Machine (depsekr through proxy)
-Thingking-Machine (depsekrp)
+### Understanding Machine (depsekr through proxy)
+Understanding-Machine (depsekrp)
